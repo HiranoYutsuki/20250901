@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">モバイル開発A</string>
+    <string name="text">テスト</string>
+    <string name="text1">サンプル</string>
 </resources>
